@@ -1,2 +1,2 @@
 # Ngrok-termux
-![](https://i.gifer.com/MoH8.gif)
+![](https://github.com/StuartxlModz/Ngrok-termux/blob/main/MoH8.gif)
